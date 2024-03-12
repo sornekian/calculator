@@ -6,7 +6,7 @@ body {
 }
 
 .screen-output {
-    background: #212331;
+    background: #15193a;
     width: 325px;
     border: 0;
     color: #FFF;
@@ -22,7 +22,7 @@ body {
 .calc-body {
     border-radius: 40px;
     max-width: fit-content;
-    background: #412331;
+    background: #2c4e9e;
     margin: auto;
     padding: 0px;
     height: auto;
